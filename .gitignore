@@ -14,3 +14,4 @@ dependency-reduced-pom.xml
 cache/
 velocity.log*
 src/main/resources/META-INF/version/
+*.log*
